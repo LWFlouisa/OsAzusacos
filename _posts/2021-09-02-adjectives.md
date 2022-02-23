@@ -40,3 +40,6 @@ Medium - Moyen<br />
 Big - Gros<br />
 Large - Grande<br />
 Huge - Énorme<br />
+
+## Abstract
+Ojijaku - fairytale ( perjorative )
