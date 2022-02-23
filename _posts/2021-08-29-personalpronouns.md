@@ -12,7 +12,7 @@ Personal pronouns are the pronouns one refers to oneself.
 Je - I<br />
 Vous - You all<br />
 Tu - You<br />
-Nous - We or Our<br />
+Nous - We<br />
 Il - He<br />
 Ils - Him<br />
 Elle - She<br />
