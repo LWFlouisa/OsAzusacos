@@ -47,18 +47,18 @@ Na yatta soreha - How are?<br />
 ## Prepositions
 This section is a work in progress.
 
-After - Après, Ato
-As Of, From - À partir de, Kara
-As If - Comme si, Ka na yo ni
-At - À, De
-Before - Avant de, Mae
-By - Par, Ni
-During - Durant, Manaka
-For - Pour, Tame Ni
-In - Dans, No
-Out - En dehors, Soto
-On - Au, De 
-Past - Passé, Kako
+After - Après, Ato<br />
+As Of, From - À partir de, Kara<br />
+As If - Comme si, Ka na yo ni<br />
+At - À, De<br />
+Before - Avant de, Mae<br />
+By - Par, Ni<br />
+During - Durant, Manaka<br />
+For - Pour, Tame Ni<br />
+In - Dans, No<br />
+Out - En dehors, Soto<br />
+On - Au, De <br />
+Past - Passé, Kako<br />
 Since - Depuis, Irai
 
 ### Still working on
