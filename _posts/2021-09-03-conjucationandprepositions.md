@@ -8,37 +8,41 @@ tags: conjucation and preposition
 This section is a work in progress.
 
 ### Coordinating
-maiz - but<br />
-ou - or<br />
-et - and<br />
-donc - so, therefore<br />
-or - now, yet<br />
-ni - neither, nor<br />
-car - because<br />
-a - at, to<br />
+but - mais, shikashi<br />
+or - ou, mata<br />
+and - et, to<br />
+so - alors, sore de<br />
+therefore - donc, shitagatte<br />
+now - a present, ima<br />
+yet - encore, mada<br />
+neither - non plus, nai<br />
+nor - ni, matawa<br />
 
 ### Subordinating
-comme - like<br />
-puizque - because<br />
-quand - when<br />
-lorzque - when<br />
-que - than<br />
-qui - who<br />
-qua - what<br />
-quel - what<br />
-quoique - though<br />
-zi - if<br />
-cette - that<br />
-zont - are<br />
-quelque - some<br />
-comment - how<br />
+like - meme, onaji<br />
+because - car, nazenara<br />
+when - quand, itsu<br />
+who - oms, fu<br />
+what - quel, nani<br />
+how - comment, na yatte<br />
+where - ou, doko<br />
+why - doshite<br />
+though - mais, keredo<br />
+if - si, moshimo<br />
+that - cette, sore<br />
+are - sont, soreha<br />
+some - quelque, ikutsu ka<br />
 
 ### Hybrid Conjuctions
+
+#### French
 quelque de cette - Some of that<br />
 quoi or - What now?<br />
 ouet - and or<br />
 comment sont - How are?<br />
 
+#### Nihongo
+Na yatta soreha - How are?<br />
 
 ## Prepositions
 This section is a work in progress.
