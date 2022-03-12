@@ -47,23 +47,21 @@ Na yatta soreha - How are?<br />
 ## Prepositions
 This section is a work in progress.
 
-### Time
-After - <br />
-As Of - <br />
-From - <br />
-At - <br />
-Before - <br />
-By - <br />
-During - <br />
-For - <br />
-In - <br />
-On - <br />
-Past - <br />
-Since - <br />
-To - <br />
-Until - <br />
+After - Après, Ato
+As Of, From - À partir de, Kara
+As If - Comme si, Ka na yo ni
+At - À, De
+Before - Avant de, Mae
+By - Par, Ni
+During - Durant, Manaka
+For - Pour, Tame Ni
+In - Dans, No
+Out - En dehors, Soto
+On - Au, De 
+Past - Passé, Kako
+Since - Depuis, Irai
 
-### Place, Movement
+### Still working on
 Above - <br />
 Across - <br />
 Against - <br />
