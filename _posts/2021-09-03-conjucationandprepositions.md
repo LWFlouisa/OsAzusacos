@@ -47,18 +47,52 @@ Na yatta soreha - How are?<br />
 ## Prepositions
 This section is a work in progress.
 
-### Single Word
-avant - before<br />
-aprez - after<br />
-verz - around, towards<br />
-depuiz - since<br />
-pendant - for, during<br />
-pour - from<br />
+### Time
+After - <br />
+As Of - <br />
+From - <br />
+At - <br />
+Before - <br />
+By - <br />
+During - <br />
+For - <br />
+In - <br />
+On - <br />
+Past - <br />
+Since - <br />
+To - <br />
+Until - <br />
 
-### Multiple Word
-en dehorz - out<br />
-a cote de<br />
-au dezouz<br />
-au dezuz<br />
-chez<br />
-danz<br />
+### Place, Movement
+Above - <br />
+Across - <br />
+Against - <br />
+At - <br />
+Behind - <br />
+Below - <br />
+Between - <br />
+By - <br />
+Next To - <br />
+Beside - <br />
+From - <br />
+In - <br />
+Into - <br />
+In Front Of - <br />
+Near - <br />
+On - <br />
+Onto - <br />
+Over - <br />
+Through - <br />
+To - <br />
+Towards - <br />
+Under - <br />
+
+### Other
+About - <br />
+At - <br />
+By - <br />
+For - <br />
+From - <br />
+Of - <br />
+On - <br />
+With - <br />
