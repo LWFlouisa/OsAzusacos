@@ -45,8 +45,8 @@ comment sont - How are?<br />
 Na yatta soreha - How are?<br />
 
 ## Prepositions
-This section is a work in progress.
 
+### Time
 After - Après, Ato<br />
 As Of, From - À partir de, Kara<br />
 As If - Comme si, Ka na yo ni<br />
@@ -60,37 +60,22 @@ Out - En dehors, Soto<br />
 On - Au, De <br />
 Past - Passé, Kako<br />
 Since - Depuis, Irai
-
-### Still working on
-Above - <br />
-Across - <br />
-Against - <br />
-At - <br />
-Behind - <br />
-Below - <br />
-Between - <br />
-By - <br />
-Next To - <br />
-Beside - <br />
-From - <br />
-In - <br />
-Into - <br />
-In Front Of - <br />
-Near - <br />
-On - <br />
-Onto - <br />
-Over - <br />
-Through - <br />
-To - <br />
-Towards - <br />
-Under - <br />
-
-### Other
-About - <br />
-At - <br />
-By - <br />
-For - <br />
-From - <br />
-Of - <br />
-On - <br />
-With - <br />
+Above - Au Dessus, Sono-jo<br />
+Across - De l'autre cote, Yokigitte<br />
+Against - Contre, Ni Taishite<br />
+Behind - Derrière, Ushidoni<br />
+Below - Au dessous de, Tsugi<br />
+Between - Compris entre, No ma ni<br />
+Next To, Beside - À côté de, No tonari ni<br />
+From - A partir de, Kara<br />
+Into - Dans, No naka e<br />
+In Front Of - Devant de, No mae ni<br /> 
+Near - Pres, Chikaku<br />
+Onto - Sur, Onto<br />
+Over - Plus de, Ijo<br />
+Through - Par, Tsukatte<br />
+To - Pour, Ni<br />
+Towards - Vers, Ni mukatte<br />
+Under - En dessous de, Shita<br />
+About - Sur, Daitai<br />
+With - Avec, To<br />
